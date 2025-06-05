@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Anisha Kandikonda - Resume</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 20px;
+      padding: 0;
+      background-color: #ffffff;
+      color: #333333;
+    }
+
+    h1 {
+      text-align: center;
+      color: #2c3e50;
+    }
+
+    h2 {
+      color: #2c3e50;
+      border-bottom: 1px solid #ccc;
+      padding-bottom: 5px;
+    }
+
+    .section {
+      margin-bottom: 20px;
+    }
+
+    ul {
+      padding-left: 20px;
+    }
+
+    .contact {
+      text-align: center;
+      margin-bottom: 30px;
+    }
+
+    .contact p {
+      margin: 5px 0;
+    }
+  </style>
+</head>
+<body>
+
+  <h1>Anisha Kandikonda</h1>
+
+  <div class="contact">
+    <p><strong>Phone:</strong> +91 7036282230</p>
+    <p><strong>Email:</strong> anishakandikonda24@gmail.com</p>
+    <p><strong>Location:</strong> Vijayawada, India</p>
+  </div>
+
+  <div class="section">
+    <h2>About Me</h2>
+    <p>Seeking an opportunity to work for an organization to learn and explore new technologies and improve my skills.</p>
+  </div>
+
+  <div class="section">
+    <h2>Education</h2>
+    <ul>
+      <li><strong>Prasad V Potluri Siddhartha Institute of Technology</strong> - B.Tech in ECE (2022–2026), GPA: 8.00</li>
+      <li><strong>Narayana Junior College</strong> - MPC, 89.4%</li>
+      <li><strong>Sri Prakash Vidhyaniketan School</strong> - Percentage: 91%</li>
+    </ul>
+  </div>
+
+  <div class="section">
+    <h2>Skills</h2>
+    <ul>
+      <li>C, Python, Java (Basics)</li>
+      <li>Matlab, Vivado, NI Multisim</li>
+      <li>VLSI, Digital Communication, BEEE</li>
+    </ul>
+  </div>
+
+  <div class="section">
+    <h2>Projects</h2>
+    <ul>
+      <li><strong>Six-bit Math Calculator:</strong> Implemented on FPGA Basys3 Board with Seven-Segment Display.</li>
+    </ul>
+  </div>
+
+  <div class="section">
+    <h2>Internships</h2>
+    <ul>
+      <li><strong>Sense Semiconductor IT Solutions:</strong> Worked on Digital System Design using Xilinx ISE and Vivado.</li>
+      <li><strong>ATL Master Mentor:</strong> Mentored students in robotics, coding, 3D printing, and electronics.</li>
+    </ul>
+  </div>
+
+  <div class="section">
+    <h2>Certifications</h2>
+    <ul>
+      <li>Arduino - Spoken Tutorial</li>
+      <li>Java Foundation - Infosys Springboard</li>
+      <li>IoT Foundation - Infosys Springboard</li>
+      <li>PCB Design - APSSDC</li>
+      <li>Psychology of Everyday - NPTEL</li>
+      <li>Google Cloud Computing Foundations</li>
+    </ul>
+  </div>
+
+  <div class="section">
+    <h2>Community Service Project</h2>
+    <p>Conducted a 6-week health survey in Vijayawada to promote public health awareness and preventive care.</p>
+  </div>
+
+  <div class="section">
+    <h2>Extra Curricular Activities</h2>
+    <ul>
+      <li>Member - NSS</li>
+      <li>Club Service Director - Rotaract PVPSIT</li>
+      <li>Master Mentor - ATL</li>
+      <li>1st Place - Group Discussion at PVPSIT</li>
+      <li>2nd Place - Throwball at QIS College Fest</li>
+    </ul>
+  </div>
+
+</body>
+</html>
